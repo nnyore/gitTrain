@@ -1,3 +1,3 @@
 # gitTrain
 
-Testing 1 2 3 o
+TimeLine i stopped at: 20:50
