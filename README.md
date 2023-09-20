@@ -1,3 +1,3 @@
 # gitTrain
 
-TimeLine i stopped at: 20:50
+TimeLine i stopped at: 30:40
